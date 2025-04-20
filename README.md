@@ -1,12 +1,52 @@
-# React + Vite
+# 📝 React Registration Form with Lottie Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a beginner-friendly, responsive registration form built with **React**, **Tailwind CSS**, and **react-hook-form**, featuring a Lottie animation.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎯 Form validation using `react-hook-form`
+- 💅 Beautiful UI with Tailwind CSS
+- 🎬 Smooth Lottie animation using `@lottiefiles/dotlottie-react`
+- 🔐 Password confirmation logic
+- 📱 Fully responsive for all devices
 
-## Expanding the ESLint configuration
+## 🔗 Technologies Used
+- React
+- Tailwind CSS
+- react-hook-form
+- @lottiefiles/dotlottie-react
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🙌 Acknowledgments
+- LottieFiles
+- React Hook Form Docs
+
+## Demo
+
+https://registration-react-hook.netlify.app/
+
+
+## Documentation
+
+## 📦 Getting Started – Step-by-Step
+
+Follow these steps to recreate this project from scratch using this documentation.
+
+### 1️⃣ Dependencies You need to Install
+
+
+```javascript
+
+<!-- Install React App -->
+npm i  react react-dom react-router
+
+<!-- Install tailwindcss -->
+npm i  @tailwindcss/vite
+
+<!-- Install React Hook From -->
+npm i react-hook-form
+
+<!-- Install lottiefiles React-->
+npm i @lottiefiles/dotlottie-react
+
+```
+
