@@ -16,15 +16,15 @@ const App = () => {
 
   return (
     <div className="flex flex-col justify-center items-center min-h-screen bg-gray-200">
-      <div className="flex justify-center items-center">
-        <div className="w-[60%]">
+      <div className="flex justify-center items-center w-[100%]">
+        <div className="w-[30%]">
           <DotLottieReact
             src="https://lottie.host/1032048f-8992-434d-9f44-c9b613e4fe36/XoURIWIcaG.lottie"
             loop
             autoplay
           />
         </div>
-        <div className="w-[40%] shadow-2xl bg-gray-200 px-10 py-20 rounded-2xl ">
+        <div className=" w-[30%] shadow-2xl bg-gray-200 px-10 py-10 rounded-2xl">
           <h1 className="text-center text-4xl font-semibold underline ">
             Register Now
           </h1>
