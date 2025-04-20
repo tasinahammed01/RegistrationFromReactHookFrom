@@ -36,16 +36,16 @@ Follow these steps to recreate this project from scratch using this documentatio
 
 ```javascript
 
-<!-- Install React App -->
+<!-- install React App -->
 npm i  react react-dom react-router
 
-<!-- Install tailwindcss -->
+<!-- install tailwindcss -->
 npm i  @tailwindcss/vite
 
-<!-- Install React Hook From -->
+<!-- install React Hook From -->
 npm i react-hook-form
 
-<!-- Install lottiefiles React-->
+<!-- install lottiefiles React-->
 npm i @lottiefiles/dotlottie-react
 
 ```
